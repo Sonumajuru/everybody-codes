@@ -1,0 +1,18 @@
+
+
+Application built on .Net 6
+
+
+WebAPIClient functions as a server listening/fetching any request made.
+To run the WebAPI console via the command prompt:
+Type:
+    - dotnet run WebAPIClient.csproj
+
+
+ReadingCSVFile is a console client application which reads input from from console and returns a name search from a pre-loaded file.
+To run the Client console (name Search application) via the command prompt:
+Type:
+    - dotnet run ReadingCSVFile.csproj
+
+
+
